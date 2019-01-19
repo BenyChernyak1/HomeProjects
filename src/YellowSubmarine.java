@@ -4,7 +4,7 @@ public class YellowSubmarine {
 
     public static void main(String[] args) {
         YellowSubmarine o = new YellowSubmarine();
-        o.getMostOccuredWordInSentence("");
+        o.getMostOccuredWordInSentence("We all live in the yellow submarine, yellow submarine, yellow submarine");
     }
 
 
